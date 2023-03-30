@@ -1,8 +1,8 @@
 /********** Template CSS **********/
 :root {
-    --primary: #06A3DA;
+    --primary: #FF5412;
     --secondary: #34AD54;
-    --light: #EEF9FF;
+    --light: #091E3E;
     --dark: #091E3E;
 }
 
@@ -221,7 +221,7 @@ h6,
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(9, 30, 62, .7);
+    background: #091E3E;
     z-index: 1;
 }
 
